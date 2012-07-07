@@ -431,7 +431,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -460,7 +460,7 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
 				CLANG_ENABLE_OBJC_ARC = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -479,7 +479,7 @@
 		83F4B7AF1574D6A500F0431F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/..\"",
@@ -499,7 +499,7 @@
 		83F4B7B01574D6A500F0431F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				COPY_PHASE_STRIP = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -520,7 +520,7 @@
 		83F4B7C51574EC5600F0431F /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VNeditorHelper/VNeditorHelper-Prefix.pch";
 				OTHER_LDFLAGS = (
@@ -541,7 +541,7 @@
 		83F4B7C61574EC5600F0431F /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application: Chris Campbell";
+				CODE_SIGN_IDENTITY = "Developer ID Application: Chris Campbell";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "VNeditorHelper/VNeditorHelper-Prefix.pch";
 				OTHER_LDFLAGS = (

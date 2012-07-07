@@ -12,7 +12,7 @@
 	<string>VNeditorHelper</string>
 	<key>SMAuthorizedClients</key>
 	<array>
-		<string>identifier com.ctcampbell.VNeditor and certificate leaf[subject.CN] = &quot;3rd Party Mac Developer Application: Chris Campbell&quot;</string>
+		<string>identifier com.ctcampbell.VNeditor and certificate leaf[subject.CN] = &quot;Developer ID Application: Chris Campbell&quot;</string>
 	</array>
 </dict>
 </plist>

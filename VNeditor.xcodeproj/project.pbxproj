@@ -16,6 +16,7 @@
 		8322A4A115779E7900A5AA36 /* Knob Valid Green.png in Resources */ = {isa = PBXBuildFile; fileRef = 8322A49D15779E7900A5AA36 /* Knob Valid Green.png */; };
 		832FBE8315791177000BED5F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 832FBE8215791177000BED5F /* MainWindow.xib */; };
 		8354082B1576C6160004BC07 /* MainWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8354082A1576C6160004BC07 /* MainWindowController.m */; };
+		8359412615910208004CD2A4 /* NewMainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8359412515910208004CD2A4 /* NewMainWindow.xib */; };
 		8378609115768B7600E1BC16 /* DDFileReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 8378609015768B7600E1BC16 /* DDFileReader.m */; };
 		839AA2A81579565D007ABA0E /* DOObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 839AA2A71579565D007ABA0E /* DOObject.m */; };
 		83CE70AA1575480B006C1A78 /* MaskFormatter.m in Sources */ = {isa = PBXBuildFile; fileRef = 83CE70A71575480B006C1A78 /* MaskFormatter.m */; };
@@ -82,6 +83,7 @@
 		832FBE8215791177000BED5F /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
 		835408291576C6160004BC07 /* MainWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainWindowController.h; sourceTree = "<group>"; };
 		8354082A1576C6160004BC07 /* MainWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainWindowController.m; sourceTree = "<group>"; };
+		8359412515910208004CD2A4 /* NewMainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NewMainWindow.xib; sourceTree = "<group>"; };
 		8378608F15768B7600E1BC16 /* DDFileReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DDFileReader.h; sourceTree = "<group>"; };
 		8378609015768B7600E1BC16 /* DDFileReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DDFileReader.m; sourceTree = "<group>"; };
 		839AA2A61579565D007ABA0E /* DOObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DOObject.h; sourceTree = "<group>"; };
@@ -159,6 +161,7 @@
 		83F4B7851574D6A400F0431F = {
 			isa = PBXGroup;
 			children = (
+				8359412515910208004CD2A4 /* NewMainWindow.xib */,
 				8322A49815779E4B00A5AA36 /* icon.icns */,
 				83F4B79A1574D6A400F0431F /* VNeditor */,
 				83F4B7BD1574EC5600F0431F /* VNeditorHelper */,
@@ -340,6 +343,7 @@
 				83DDEE1C157FC6820088339F /* Knob Attention.png in Resources */,
 				8300A4DA15812C70003DE943 /* plus.png in Resources */,
 				8300A4E515812E93003DE943 /* Knob Refresh.png in Resources */,
+				8359412615910208004CD2A4 /* NewMainWindow.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

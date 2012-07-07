@@ -21,7 +21,7 @@
         [helper installHelper];
     }
     
-    [self setMainWindowController:[[MainWindowController alloc] initWithWindowNibName:@"MainWindow"]];
+    [self setMainWindowController:[[MainWindowController alloc] initWithWindowNibName:@"NewMainWindow"]];
     [mainWindowController showWindow:self];
 }
 
